@@ -1,0 +1,15 @@
+{
+  "appTitle": "user_app",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "login":"Login",
+  "users":"Users",
+  "email":"Email",
+  "password":"Password",
+  "loginFailed":"Icorrect email or password!",
+  "newUser":"New User",
+  "add":"Add",
+  "name":"name",
+  "noUser":"Users are not available!"
+}
